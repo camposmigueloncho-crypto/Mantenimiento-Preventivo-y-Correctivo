@@ -13,5 +13,5 @@ public class Equipo {
     public String sistema_operativo;
     public String estado;
     public String ubicacion;
-    public String huevo;
+   
 }
